@@ -1,0 +1,15 @@
+header{
+    background-color: cyan;
+  } 
+  ul{
+    padding-top:12px;
+}
+header li{
+    margin-right:15px;
+  
+}
+header a{
+    color:red;
+    font-weight: bold;
+}
+  
